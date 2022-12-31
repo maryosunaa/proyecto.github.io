@@ -1,0 +1,52 @@
+* {
+    font-family: Helvetica;
+}
+
+.header {
+    background-image: url("images/pattern.jpeg");
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;   
+    text-align: center;
+}
+
+.header p {
+    margin-top: 67px;
+    margin-bottom: 67px;
+}
+
+.brushes {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.price_brushes {
+    font-weight: bold;
+    color: blue;
+}
+
+.frames {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.price_frames {
+    font-weight: bold;
+    color: blue;
+}
+
+.paint {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+.price_tube {
+    font-weight: bold;
+    color: blue;
+}
